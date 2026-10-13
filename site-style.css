@@ -1,0 +1,3 @@
+body{font:16px/1.6 system-ui,Segoe UI,Arial,sans-serif;max-width:46rem;margin:2rem auto;padding:0 1rem;color:#1b1b1b;background:#fff}
+h1{font-size:1.7rem}h2{font-size:1.15rem;margin-top:2rem}a{color:#0a58ca}footer{margin-top:3rem;color:#666;font-size:.9rem}
+@media (prefers-color-scheme:dark){body{background:#141414;color:#eee}a{color:#7db3ff}footer{color:#aaa}}
